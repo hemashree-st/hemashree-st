@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Core Java,JDBC,Hibernate,Spring**
+- 💬 Ask me about **Java,HTML,CSSS,SQL**
 
 - 📫 How to reach me **hemast97@gmail.com**
 
