@@ -3,12 +3,13 @@
 
 - 🌱 I’m currently learning **Spring boot**
 
-- 💬 Ask me about **Java,HTML,CSSS,SQL**
+- 💬 Ask me about **Java,HTML,CSS,SQL**
 
 - 📫 How to reach me **hemast97@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/hemashree s t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemashree s t" height="30" width="40" /></a>
 <a href="https://instagram.com/hema_gowda10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hema_gowda10" height="30" width="40" /></a>
 </p>
 
