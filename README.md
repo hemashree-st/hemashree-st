@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hemashree S T</h1>
 <h3 align="center">Java Developer</h3>
 
-- 🌱 I’m currently learning **Spring boot**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **Java,HTML,CSS,SQL**
+- 💬 Ask me about **Java,Spring Boot,HTML,CSS,SQL**
 
 - 📫 How to reach me **hemast97@gmail.com**
 
