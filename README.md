@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemashree S T</h1>
-<h3 align="center">Java Backend Developer</h3>
+<h3 align="center">Java Developer</h3>
 
 - 🌱 I’m currently learning **Spring boot**
 
