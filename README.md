@@ -1,4 +1,4 @@
-<h1 align="center">I'm Hemashree S T </h1>
+<h1 align="center">I'm Hemashree S T</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=435&lines=DevOps+%26+Cloud+Infrastructure;Java+%26+Web+Technologies;Continuous+Learner" alt="Typing SVG" /></p>
